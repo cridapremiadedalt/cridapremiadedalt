@@ -3,8 +3,8 @@ Perfil de github del partit polític de Premià de Dalt **Crida Premià de Dalt*
 En els nostres repositoris podràs trobar dades, propostes d'ordenances o eines que utilitzem per a la nostra tasca municipal, vols ajudar-nos? Contacta'ns i estarem encantats de col·laborar-hi!
 
 ## El que trobaràs
-- Repositori de la nostra pàgina web (cridapremiadedalt.github.io)[https://github.com/cridapremiadedalt/cridapremiadedalt.github.io]
-- Repositori amb documentació de l'Ajuntament de Premià de Dalt (documentacio-ajuntament)[https://github.com/cridapremiadedalt/documentacio-ajuntament]
+- Repositori de la nostra pàgina web [cridapremiadedalt.github.io](https://github.com/cridapremiadedalt/cridapremiadedalt.github.io)
+- Repositori amb documentació de l'Ajuntament de Premià de Dalt [documentacio-ajuntament](https://github.com/cridapremiadedalt/documentacio-ajuntament)
   - Ordres del dia i actes dels plens
   - Documentació per a tràmits i associacions
   - Ordenances municipals

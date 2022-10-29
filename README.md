@@ -13,7 +13,7 @@ En els nostres repositoris podràs trobar dades, propostes d'ordenances o eines 
 ## 📫 Segueix la nostra activitat a:
 - Twitter: [@cridapremiadalt](https://twitter.com/cridapremiadalt)
 - Instagram: [@crida.pdd](https://www.instagram.com/crida.pdd)
-- Youtube: [Ves al canal](https://www.youtube.com/channel/UCMQkonVf7Swo3icVW0uuwSg)
+- Youtube: [@cridapremiadedalt](https://www.youtube.com/@cridapremiadedalt)
 - Web: [cridapremiadedalt.cat](http://cridapremiadedalt.cat/)
 
 ## Envia'ns un correu a:

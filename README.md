@@ -1,6 +1,6 @@
 Perfil de github del partit polític de Premià de Dalt **Crida Premià de Dalt** que vàrem concòrrer per primera vegada a les eleccions municipals del 2015.
 
-En els nostres repositoris podràs trobar dades, propostes d'ordenances o eines que utilitzem per a la nostra tasca municipal, vols ajudar-nos? Contacta'ns i estarem encantats de col·laborar-hi!
+En els nostres repositoris podràs trobar dades, propostes d'ordenances o eines que utilitzem per a la nostra tasca municipal, vols ajudar-nos? Deixa'ns una PR!
 
 ## El que trobaràs
 - Repositori de la nostra pàgina web [cridapremiadedalt.github.io](https://github.com/cridapremiadedalt/cridapremiadedalt.github.io)
@@ -17,10 +17,5 @@ En els nostres repositoris podràs trobar dades, propostes d'ordenances o eines 
 - Web: [cridapremiadedalt.cat](http://cridapremiadedalt.cat/)
 
 ## Envia'ns un correu a:
+- ProtonMail: cridapremiadedalt@proton.me
 - Gmail: cridapremiadedalt@gmail.com
-
-
-<!---
-cridapremiadedalt/cridapremiadedalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
